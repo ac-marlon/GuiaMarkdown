@@ -40,6 +40,4 @@ Listas:
  
 Enlaces:
 
- [Texto del enlace aquí](URL "Título del enlace")
-Imágenes:
-![Texto alternativo](URL "Título de la imagen")
+ [Texto del enlace aquí](https://github.com/ "Título del enlace")
